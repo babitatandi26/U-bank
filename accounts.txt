@@ -3,4 +3,8 @@ Account Number           Name
 1002                     Ishwar
 1001                     Shrishti
 1003                     Test
+<<<<<<< HEAD
 1004                     Test1
+=======
+1004                     test1
+>>>>>>> feature1
