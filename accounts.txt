@@ -1,2 +1,4 @@
 this is the accounts file
-new line added
+Account Number           Name
+1002                     Ishwar
+1001                     Shrishti
